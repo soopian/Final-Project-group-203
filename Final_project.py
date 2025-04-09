@@ -1,1 +1,1 @@
-#This is a change made to the python file seb
+# Randomization + validation of user input algo - Sebas
